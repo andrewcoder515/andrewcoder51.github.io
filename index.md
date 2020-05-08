@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+theme: jekyll-theme-dinky
 <html>
 <body>
 
